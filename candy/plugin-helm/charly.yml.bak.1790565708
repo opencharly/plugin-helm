@@ -1,5 +1,7 @@
+version: 2026.232.0520
 plugin-helm:
     candy:
+        version: 2026.225.1102
         description: |-
             OUT-OF-TREE charly plugin owning the helm words (Factory Unit 1): the
             `step:helm-release` install step (a plugin-contributed `external:helm-release`
