@@ -62,7 +62,8 @@ Then author the step and the assertion:
 ## Related
 
 - Owning skill: `/charly-kubernetes:helm` — the helm words (`step:helm-release` +
-  `verb:helm`).
+  `verb:helm`), projected from this candy's own `skill:` entity; the body is
+  `.agents/skills/helm/SKILL.md`.
 - `/charly-internals:install-plan` — the executor reverse channel and the
   InstallPlan IR.
 - `/charly-internals:plugin` — the plugin/provider model.
